@@ -22,4 +22,4 @@ Execute the file `compile.bat`
 
 ### Mac OS X or Linux
 
-You have to change the commands to compile to a valid Linux executable. More information on [this link](https://love2d.org/wiki/Game_Distribution#Creating_a_Windows_Executable).
+You have to change the commands to compile to a valid Linux executable. More information on [this link](https://love2d.org/wiki/Game_Distribution).
