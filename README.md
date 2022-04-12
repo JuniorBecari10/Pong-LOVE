@@ -20,7 +20,7 @@ Execute `make` or `make run` and it will run the game.
 
 ### Windows
 
-Execute the file `compile.bat`
+Execute the file `compile.bat`.
 
 ### Mac OS X or Linux
 
