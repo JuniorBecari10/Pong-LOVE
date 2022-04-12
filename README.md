@@ -5,9 +5,11 @@ The basic game Pong.
 ## Keys
 
 **A or Left** - Move Left
+
 **D or Right** - Move Right
 
 **F** Reset Positions
+
 **R** Reset Game
 
 ## Running
